@@ -1,0 +1,12 @@
+@BotFather    联系官方机器人
+
+
+=========================自己第一个模仿机器人@kasang_bot ===============
+
+@BotFather上可以获取token:  8326229202:AAE0f9BXxnWbr9VpE0vJbBE9BWuT8QlDI9Y   
+
+获取chat_id  [6264933716]
+https://api.telegram.org/bot{token}/getUpdates   
+
+发送消息
+https://api.telegram.org/bot{token}/sendMessage?chat_id=-4074711987&text=hello%20baby

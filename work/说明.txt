@@ -1,0 +1,76 @@
+﻿需求文档：
+                
+需求链接：https://oe4az5.axshare.com
+链接密码：HK135135
+
+
+======人人娱乐前端==========
+https://tkzc888.com/#/home
+
+======人人娱乐管理台==============
+http://tkzc806.vip
+账号:admintkzc88     密码：lg147369
+
+tkzc8836.com 
+账号：adminanan
+密码：adminanan
+
+=========天空版人人H5=============
+线上测试环境： https://h5v2.tkv6test.cc/#/home
+局域网： 	        http://192.168.40.6:8899/#/home
+
+管理台java: http://34.143.234.6:8080/lantian1006/sky_admin.git
+
+
+https://t.me/RR666_bot?start=130151
+
+============三方资料================
+1、https://dashboard.fingerprint.com/login
+邮箱注册：tiankongyule57@gmail.com  谷歌密码888666          看看这个 三方是不是
+
+
+====================================新天空后台【自己】================================
+
+
+========局域网测试环境=======
+ssh  root@192.168.40.6 【php7】  root  huanya
+ssh  root@192.168.40.5   [php8]    root 20210902
+php环境构建： 
+http://192.168.40.5:9200/
+admin 123456
+
+公网git:  git pull http://kasang:h7UHlUrzfiPaMkdtzx8E@34.126.115.191:18080/sky/sky_game_api.git master
+
+===================java 接口文档=====
+http://192.168.40.6:4999/web/#/648167997?page_id=192476703 密码: nsqXjswM
+http://192.168.40.6:4999/web/#/648168015?page_id=192476877 密码: xApMahVU     java/获取支付列表接口
+php接口文档
+http://192.168.40.5:9191/apidoc
+
+================新天空java管理台=============
+http://192.168.40.6:58082/index
+
+http://34.124.155.60:58081/login?redirect=/index
+
+admin   /    admin123
+==============视讯局域网H5: http://192.168.40.5:3002 ======
+
+
+
+
+
+====================新天空管理台资料==================
+新天空后台：http://34.124.155.60:58081/index
+andrew / 123456
+yangbiao / 123456
+weiyixiao / 123456
+kasang / 123456
+lilei / 123456
+xunhuan / 123456
+test001  / 123456
+test002 / 123456
+
+
+机器人:
+外网机器人地址：  @TKCSapp_bot    启动: /start
+本地机器人地址：  @TexasPokerGameBot    启动: /start

@@ -1,0 +1,35 @@
+php环境构建： 
+http://192.168.40.5:9200/
+admin 123456
+
+
+
+jenkins
+==============ubuntu跳板机查看服务器日志等信息==============
+https://jum3333faster52.pyskgame.com:38038/
+kasang
+hhNDoVZuylAFlCpEiA2W
+执行 ./data/sh/update_sky_api.sh 同步代码
+sh ./restart_php.sh  重启系统
+
+
+
+更新代码：
+在局域网服务器192.168.40.5
+/home/loacal2Pre/sky_renren_api 目录
+执行 ./copy_and_push.sh 日志记录
+
+PG供三方回调函数
+https://api.tktestnew.cc/api/verify_session
+
+==================查看公网IP==============
+curl ifconfig.me  查看服务器公网ip  34.124.155.60
+
+数据库
+34.124.155.60 
+dev
+Game@Sky123!@#
+redis:
+34.124.155.60
+
+
